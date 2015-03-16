@@ -2,5 +2,5 @@
 Arduino Bitcoin Ticker Sketch &amp; Python Script
 Upload Arduino sketch then from terminal run:
 python bitcoin_ticker.py
-Change Red/Green light threshold in .ino file
-20x4 LCD use change if you use 16x2
+Change Red/Green light threshold in .ino file.
+20x4 Common Anode LCD used comment out in .ino if your lcd is common cathode
