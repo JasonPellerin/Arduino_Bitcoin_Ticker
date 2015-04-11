@@ -1,6 +1,5 @@
 
 #include <ESP8266WiFi.h>
-#include <Adafruit_GFX.h>
 
 const char* ssid     = "your_SSID";
 const char* password = "your_passwd";
